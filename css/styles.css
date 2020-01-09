@@ -5,5 +5,5 @@ img {
   width: 50%;
 }
 body {
-  background-image: linear-gradient(red, yellow); /* Standard syntax (must be last) */
+  background-image: linear-gradient(rgba(255, 94, 0, 0.979), rgb(247, 225, 130)); /* Standard syntax (must be last) */
 }
